@@ -1,0 +1,15 @@
+{
+  "timestamp": "2018-12-20T11:50:48Z",
+  "id": "2344",
+  "picker": {
+    "id": "14",
+    "name": "Joris",
+    "active_since": "2018-09-20T08:20:00Z"
+  },
+  "article": {
+    "id": "13473",
+    "name": "ACME Bananas",
+    "temperature_zone": "ambient"
+  },
+  "quantity": 2
+}
